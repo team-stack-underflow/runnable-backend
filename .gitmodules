@@ -1,0 +1,6 @@
+[submodule "lambdas"]
+	path = lambdas
+	url = https://github.com/team-stack-underflow/lambdas
+[submodule "containers"]
+	path = containers
+	url = https://github.com/team-stack-underflow/containers
